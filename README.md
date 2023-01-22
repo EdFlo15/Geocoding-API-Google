@@ -1,4 +1,4 @@
-# Obteniendo coordenaas con la API de Google Geocoding
+# Obteniendo coordenadas con la API de Google Geocoding
 
 para ejecutar el proyecto: 
 ```sh
