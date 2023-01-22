@@ -2,7 +2,7 @@
 
 para ejecutar el proyecto: 
 ```sh
-1. Abrir una cuenta en Goocle Cloud que nos permite consumir 300 dolares de manera gratuita.
+1. Abrir una cuenta en Google Cloud que nos permite consumir 300 dolares de manera gratuita.
 2. Crear un proyecto dentro de Google Cloud.
 3, Habilitar la API Geocoding.
 4 Obtener la llave (key: para la autorización del consumo de la API)
